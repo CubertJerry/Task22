@@ -1,0 +1,9 @@
+/* Define your styles for the App component here */
+/* Example styles: */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
